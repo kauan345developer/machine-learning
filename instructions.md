@@ -1,0 +1,5 @@
+- Selecionar penguins do matpotlib
+- Fazer todas etapas de pre processamento
+- Fazer um relatório dos dados analisados
+- Caso tiver duvida, colocar no relatório
+- fazer em ipynb
